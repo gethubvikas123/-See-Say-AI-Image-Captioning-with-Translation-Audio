@@ -1,4 +1,4 @@
-### 🎯 **"See & Say :- AI-Generated Image Captions + Audio"**
+### 🎯 **See & Say :- AI-Generated Image Captions + Audio**
 
 This **Streamlit** app allows users to:
 
