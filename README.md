@@ -1,4 +1,4 @@
-### 🎯 **Project Summary: "See & Say – AI-Powered Image Captioning App"**
+### 🎯 **"See & Say :- AI-Generated Image Captions + Audio"**
 
 This **Streamlit** app allows users to:
 
