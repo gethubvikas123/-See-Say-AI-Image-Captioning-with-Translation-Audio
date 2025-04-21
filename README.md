@@ -6,7 +6,7 @@ This **Streamlit** app allows users to:
 🌐 **Translate those captions into Hindi**  
 🔊 **Read the captions aloud using text-to-speech**
 
-Just upload an image — the app will describe it in English, let you translate it into Hindi, and play audio in both languages.
+Just upload an image—the app will describe it in English, let you translate it into multiple Indian Languages, and play audio in both languages.
 
 ---
 
