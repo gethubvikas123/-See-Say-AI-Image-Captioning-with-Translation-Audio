@@ -1,33 +1,33 @@
-🖼️ See & Say: AI Image Captioning with Hindi Translation & Audio
+### 🎯 **Project Summary: "See & Say – AI-Powered Image Captioning App"**
 
-This project is a Streamlit app that can:
+This **Streamlit** app allows users to:
 
-📸 Generate image captions using AI
-🌐 Translate those captions into Hindi
-🔊 Read the captions aloud using text-to-speech
-You just upload an image, and the app will describe it in English. You can also translate it into Hindi and hear both versions.
+📸 **Generate image captions using AI**  
+🌐 **Translate those captions into Hindi**  
+🔊 **Read the captions aloud using text-to-speech**
 
+Just upload an image — the app will describe it in English, let you translate it into Hindi, and play audio in both languages.
 
-## 🚀 Features
+---
 
-- 📸 **AI-based Image Captioning** using a pre-trained Transformer model
-- 🌐 **Translate Captions** to Hindi using Google Translate
-- 🔊 **Listen to Captions** with Text-to-Speech (gTTS)
-- 🎛️ **Streamlit UI** for interactive, browser-based usage
-- 🧠 Ideal for accessibility, education, and language learning
+### 🚀 **Features**
+- 📸 **AI-based Image Captioning** using a pre-trained **ViT-GPT2 Transformer** model
+- 🌐 **Hindi Translation** powered by **Google Translate API**
+- 🔊 **Text-to-Speech (TTS)** using **gTTS** for both English and Hindi
+- 🎛️ **Streamlit Web App Interface** – fast, responsive, and user-friendly
+- 🧠 Ideal for **accessibility**, **language learning**, and **education**
 
+---
 
+### 🔧 **Tech Stack / Tools Used**
+- **Streamlit** – for the interactive web UI  
+- **Pillow (PIL)** – for image processing  
+- **Transformers** & **Torch** – for loading and using the image captioning model  
+- **googletrans** – to translate text to Hindi  
+- **gTTS** – to convert text to speech
 
-🔧 Tools Used
+---
 
-Streamlit – to build the web app
-
-Pillow – to work with images
-
-Transformers & Torch – to generate captions using AI
-
-googletrans – to translate text to Hindi
-
-gTTS – to convert text to speech
-
-
+### 🌐 **Try the App**
+👉 Click below to open and use the live app:  
+[🔗 Open See & Say App]((https://seeandsay.streamlit.app/)  
